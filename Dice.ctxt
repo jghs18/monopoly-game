@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dice()
+comment1.params=
+comment1.target=int\ roll()
+comment2.params=
+comment2.target=java.lang.String\ getStr()
+comment3.params=
+comment3.target=boolean\ Doubles()
+numComments=4

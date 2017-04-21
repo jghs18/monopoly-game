@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n\ b
+comment0.target=Cornerspace(javax.swing.ImageIcon,\ boolean)
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=i
+comment2.target=void\ setPos(boolean)
+numComments=3

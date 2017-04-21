@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=c\ pp
+comment0.target=PropertySpace(java.awt.Color,\ int)
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment10.params=p\ tC
+comment10.target=void\ setColorLabel(Player,\ java.awt.Color)
+comment2.params=tC
+comment2.target=void\ drawSpace(java.awt.Color)
+comment3.params=
+comment3.target=javax.swing.JButton\ getYesButton()
+comment4.params=pos
+comment4.target=int\ getCost(int)
+comment5.params=
+comment5.target=javax.swing.JPanel\ getColorLabel()
+comment6.params=
+comment6.target=Player\ getOwner()
+comment7.params=
+comment7.target=int\ getRent()
+comment8.params=p
+comment8.target=void\ setOwner(Player)
+comment9.params=
+comment9.target=boolean\ isOwned()
+numComments=11
